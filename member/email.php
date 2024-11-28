@@ -27,23 +27,16 @@ include('../dbConnection.php');
   </div>
   <div class="col-md-4">
     <b>Customer service:</b> <br />
-    Phone: +265 0882889689<br />
-    E-mail: <a href="#">rileyemzo@gmail.com</a><br />
+    Phone: +91 123456789<br />
+    E-mail: <a href="#">abhishek91272@gmail.com</a><br />
     <br /><br />
     Profitness Gym<br />
-    Blantyre <br />
-    Chichiri <br />
-    Phone: +265 0889789232<br />
-    <a href="#">riley@gmail.com</a><br />
+    Varanasi <br />
+    Uttar Pradesh <br />
+    Phone: +91 0123456789<br />
+    <a href="#">abhishek91272@gmail.com</a><br />
 
-<!-- 
-    <br /><br />
-    <b>Hong kong:</b><br />
-    Company HK Litd, <br />
-    25/F.168 Queen<br />
-    Wan Chai District, Hong Kong<br />
-    Phone: +852 129 209 291<br />
-    <a href="#">hk@mysite.com</a><br /> -->
+
 
 
   </div>

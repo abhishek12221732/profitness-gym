@@ -13,7 +13,7 @@ if(isset($_REQUEST['submit'])) {
  $email = $_REQUEST['email'];
  $message = $_REQUEST['message'];
 
- $mailTo = "emzomatewere@gmail.com";
+ $mailTo = "abhishek91272@gmail.com";
  $headers = "From: ". $email;
  $txt = "You have received an email from ". $name. ".\n\n".$message;
  mail($mailTo, $subject, $txt, $headers);
@@ -38,9 +38,9 @@ if(isset($_REQUEST['submit'])) {
  <div class="col-md-4 stripe text-white text-center">
         <h4>Profitness Gym</h4>
         <p>Pro-fitness,
-          Opposite The National musuem,chichiri,
-          post office box 4000<br/>
-          phone: +2650884537267<br/>
+          Sigra, Varanasi,
+          Uttar Pradesh<br/>
+          phone: +91 1234567890<br/>
           www.profitness.com
         </p>
      </div>

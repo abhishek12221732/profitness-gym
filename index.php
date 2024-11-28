@@ -278,7 +278,7 @@
        <p>Pro-fitness is a place where people go and workout.
         It is a gymnastics centre that provides different types of physical training exercises 
         for members to practice for them improve to a healthily lifestyle. The gym was established 
-       in 2006 and is located in Blantyre, chichiri opposite the Malawi national museum.</p>
+       in 2006 and is located in Varanasi, Uttar Pradesh.</p>
 
        <p>Our dedicated trainers and fitness experts can help you discover new training techniques 
          and exercises that offer a dynamic and efficient full-body workout. </p>
